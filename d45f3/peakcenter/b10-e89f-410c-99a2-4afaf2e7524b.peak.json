@@ -1,0 +1,54 @@
+{
+    "AX": {
+        "center_dac": null,
+        "center_signal": null,
+        "high_dac": null,
+        "high_resolving_power": null,
+        "high_signal": null,
+        "low_dac": null,
+        "low_resolving_power": null,
+        "low_signal": null,
+        "points": "QLucGj2kgC9Au6SUO2A00kC7rQ285uC6QLu1hr0FAMVAu74AvUYxgkC7xnk89IP+QLvO8z42hLRAu9dsPtGwdEC73+Y+6zsMQLvoXz6+JulAu/DZPuSeUEC7+VI/EDTCQLwBzD8Oa9dAvApFPwwLbkC8Er8/Kxh9QLwbOD8az2NAvCOyPwDyq0C8LCs/Ff97QLw0pD8XqGFAvD0ePyXk9kC8RZc/LjxKQLxOET8RQvJAvFaKPrEw60C8XwQ+URCmQLxnfT4PHBhAvG/3PcDVrUC8eHA9pRjxQLyA6ry0G6VAvIljPYQpVkC8kd2+AcTN",
+        "resolution": null
+    },
+    "CDD": {
+        "center_dac": null,
+        "center_signal": null,
+        "high_dac": null,
+        "high_resolving_power": null,
+        "high_signal": null,
+        "low_dac": null,
+        "low_resolving_power": null,
+        "low_signal": null,
+        "points": "QLucGgAAAABAu6SUAAAAAEC7rQ06INd7QLu1hjog13tAu74AOyDXfEC7xnk7ZzXEQLvO8zwWyglAu9dsPFMa3EC73+Y80JeJQLvoXz2IpzhAu/DZPkR/2UC7+VI+n77NQLwBzD68pdVAvApFPsXqXEC8Er8+yKoTQLwbOD7LzlNAvCOyPsbHh0C8LCs+xAfPQLw0pD7DUttAvD0ePsGEakC8RZc+wXBOQLxOET7AkyNAvFaKPq8jlUC8XwQ+qQNPQLxnfT5tz3hAvG/3PeMgrkC8eHA9Ge5QQLyA6jvOFBpAvIljOiDXe0C8kd06SQ1a",
+        "resolution": null
+    },
+    "H1": {
+        "center_dac": 5.877955686552616,
+        "center_signal": 124.59184426366652,
+        "high_dac": 5.8857713178151405,
+        "high_resolving_power": 1271.6168344544592,
+        "high_signal": 91.85783249909764,
+        "low_dac": 5.870140055290091,
+        "low_resolving_power": 1284.526266486787,
+        "low_signal": 93.01839358566946,
+        "points": "QLucGj3mcpJAu6SUPgk0E0C7rQ0+444lQLu1hj/F6x1Au74AQM2kMUC7xnlBqTE0QLvO80JWAA1Au9dsQrRtFkC73+ZC40prQLvoX0L0crlAu/DZQvhQ8kC7+VJC+QTcQLwBzEL4vGpAvApFQvkYckC8Er9C+NqGQLwbOEL5LpJAvCOyQvjS2kC8LCtC+KRUQLw0pEL4jRRAvD0eQvefu0C8RZdC9DtRQLxOEULoEPtAvFaKQsNGy0C8XwRCgBDiQLxnfUHtsQlAvG/3QRR6fkC8eHA/9gkNQLyA6j6fWq5AvIljPeXJsUC8kd09mCGG",
+        "resolution": 266.4018971471245
+    },
+    "L2": {
+        "center_dac": null,
+        "center_signal": null,
+        "high_dac": null,
+        "high_resolving_power": null,
+        "high_signal": null,
+        "low_dac": null,
+        "low_resolving_power": null,
+        "low_signal": null,
+        "points": "QLucGjpeyZNAu6SUvUjevUC7rQ28vVNVQLu1hrxBTcxAu74AvAxcn0C7xnm9nyqwQLvO870WKs5Au9dsvMuiOkC73+a9mZOIQLvoX7w25ctAu/DZvObaVUC7+VI8dwTbQLwBzLuS3d5AvApFvWNbXkC8Er+8iZqnQLwbOLwG4DxAvCOyu4GxBUC8LCu9hxOaQLw0pL1R9cBAvD0evCLL/UC8RZe9BEQnQLxOEb1mlRJAvFaKvSeXp0C8XwS8Ly/kQLxnfbwU3ddAvG/3vT0SskC8eHC9hmZvQLyA6jxVbfxAvIljvI4S/EC8kd29iJ8G",
+        "resolution": null
+    },
+    "fmt": ">ff",
+    "interpolation": "cubic",
+    "reference_detector": "H1",
+    "reference_isotope": "Ar40"
+}
