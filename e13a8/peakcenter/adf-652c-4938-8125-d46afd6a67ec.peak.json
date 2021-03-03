@@ -1,0 +1,54 @@
+{
+    "AX": {
+        "center_dac": null,
+        "center_signal": null,
+        "high_dac": null,
+        "high_resolving_power": null,
+        "high_signal": null,
+        "low_dac": null,
+        "low_resolving_power": null,
+        "low_signal": null,
+        "points": "QLubXTwrG2ZAu6PXPJUAQEC7rFC9Yif5QLu0yjzvpiFAu71DPdFIeUC7xb099r6lQLvONj7b4phAu9awPwNbCkC73yk/L1GyQLvnoz8fxQ5Au/AcPzaWn0C7+JU/OAlGQLwBDz9A9wtAvAmIP0OQGEC8EgI/JgCKQLwaez9LnlZAvCL1P0G7LkC8K24/YG36QLwz6D85/KRAvDxhP0BJ5kC8RNs/G0wzQLxNVD89sbRAvFXOPu0yn0C8Xkc+VNyEQLxmwT2wdY9AvG86PbHqUEC8d7M9eMNyQLyALT3l9X1AvIimPTUjqEC8kSA9eQCJ",
+        "resolution": null
+    },
+    "CDD": {
+        "center_dac": null,
+        "center_signal": null,
+        "high_dac": null,
+        "high_resolving_power": null,
+        "high_signal": null,
+        "low_dac": null,
+        "low_resolving_power": null,
+        "low_signal": null,
+        "points": "QLubXQAAAABAu6PXOSDXe0C7rFAAAAAAQLu0yjpxQzlAu71DOzTybEC7xb07m9DCQLvONjwZTWdAu9awPJlNbUC73yk9D+DVQLvnoz214+9Au/AcPlDAVkC7+JU+mgMQQLwBDz6373dAvAmIPsCTI0C8EgI+v8oUQLwaez7JNtFAvCL1PsafUEC8K24+wFbSQLwz6D66hvdAvDxhPr3nh0C8RNs+vAT7QLxNVD68QU1AvFXOPqx3+kC8Xkc+nlTkQLxmwT5X0dpAvG86PbRR00C8d7M80JeJQLyALTu08m5AvIimOiDXe0C8kSA5oNd7",
+        "resolution": null
+    },
+    "H1": {
+        "center_dac": 5.877685326361176,
+        "center_signal": 122.67299168199999,
+        "high_dac": 5.885621198104662,
+        "high_resolving_power": 1439.7867538501864,
+        "high_signal": 91.65105281753739,
+        "low_dac": 5.869749454617689,
+        "low_resolving_power": 1301.5733234908544,
+        "low_signal": 91.80625246175411,
+        "points": "QLubXT35QvtAu6PXPo0TOkC7rFA/Mv5DQLu0ykAUtYZAu71DQQvF6EC7xb1B4YmZQLvONkJ+FNxAu9awQsMmZUC73ylC5uCKQLvno0LyCE5Au/AcQvTUaEC7+JVC9OlrQLwBD0L1V/FAvAmIQvT/f0C8EgJC9QQTQLwae0L1EqlAvCL1QvTkYUC8K25C9RqTQLwz6EL0VUVAvDxhQvOFEEC8RNtC78+kQLxNVELhbgVAvFXOQr3baUC8XkdCfy/wQLxmwUGFxPBAvG86QIdmEUC8d7M/e5JXQLyALT4+AWdAvIimu9+pykC8kSA9SNEy",
+        "resolution": 272.31197565963953
+    },
+    "L2": {
+        "center_dac": null,
+        "center_signal": null,
+        "high_dac": null,
+        "high_resolving_power": null,
+        "high_signal": null,
+        "low_dac": null,
+        "low_resolving_power": null,
+        "low_signal": null,
+        "points": "QLubXb0lZRtAu6PXvYmBD0C7rFC9KfFFQLu0yr0vkXtAu71DvgZllUC7xb29k+zeQLvONjzTxuJAu9awvJ36mEC73ym9TqElQLvno72VN41Au/AcvQTyXEC7+JW9qReRQLwBD7z9DVJAvAmIvUb1vUC8EgK8bPSpQLwaezynPbBAvCL1vVrgRkC8K269fPiXQLwz6L059fJAvDxhvW6BIkC8RNu8DhQeQLxNVL1HH1VAvFXOO4E6gkC8Xke9nlNhQLxmwbzi+BxAvG86vYpBFkC8d7O9UGSuQLyALbqQPrFAvIimvVgpe0C8kSC8tzN9",
+        "resolution": null
+    },
+    "fmt": ">ff",
+    "interpolation": "cubic",
+    "reference_detector": "H1",
+    "reference_isotope": "Ar40"
+}
