@@ -1,0 +1,54 @@
+{
+    "AX": {
+        "center_dac": null,
+        "center_signal": null,
+        "high_dac": null,
+        "high_resolving_power": null,
+        "high_signal": null,
+        "low_dac": null,
+        "low_resolving_power": null,
+        "low_signal": null,
+        "points": "QLuMKj4S4wVAu5SkPYyrlUC7nR0+B72jQLullz5bTqRAu64QPkLfOkC7too+UwGWQLu/Az6Q9i5Au8d9PrjtZEC7z/Y/BABsQLvYbz8Y2RZAu+DpPv1dAEC76WI/Bnk6QLvx3D8bd1lAu/pVPxvHyUC8As8/HsLVQLwLSD8dGmVAvBPCPwGZTUC8HDs/EekIQLwktT8n2hJAvC0uPv4A50C8Nag/J/+gQLw+IT75sIFAvEabPt9phEC8TxQ+sMV9QLxXjT51lpdAvGAHPimz2UC8aIA+XjvNQLxw+j4daapAvHlzPlu8uEC8ge0+RGmV",
+        "resolution": null
+    },
+    "CDD": {
+        "center_dac": null,
+        "center_signal": null,
+        "high_dac": null,
+        "high_resolving_power": null,
+        "high_signal": null,
+        "low_dac": null,
+        "low_resolving_power": null,
+        "low_signal": null,
+        "points": "QLuMKgAAAABAu5SkAAAAAEC7nR058032QLullznzTfZAu64QO0CdukC7too7p0WcQLu/AzwBQW5Au8d9PH1xREC7z/Y9CNvsQLvYbz2v05NAu+DpPk1y+kC76WI+kMgJQLvx3D6w2+FAu/pVPr7gyEC8As8+xSKcQLwLSD67J8tAvBPCPrZS8UC8HDs+tQ6GQLwktT6542BAvC0uPrg5k0C8Nag+saalQLw+IT6uzLNAvEabPqktFkC8TxQ+kjUBQLxXjT5GAQxAvGAHPafoBEC8aIA8zUncQLxw+juYELxAvHlzOqIz+kC8ge0AAAAA",
+        "resolution": null
+    },
+    "H1": {
+        "center_dac": 5.87579987975952,
+        "center_signal": 114.16575029440916,
+        "high_dac": 5.883525330661324,
+        "high_resolving_power": 1287.8636578947896,
+        "high_signal": 85.41497873384952,
+        "low_dac": 5.8680744288577165,
+        "low_resolving_power": 1267.4043896104097,
+        "low_signal": 84.95964581453708,
+        "points": "QLuMKj1vWXhAu5SkPibspEC7nR0+3ZE2QLullz/at/lAu64QQNV0ZEC7topBtmp4QLu/A0JVgVlAu8d9QqtXTUC7z/ZC0hCCQLvYb0LggZxAu+DpQuOGR0C76WJC5DFXQLvx3ELjywZAu/pVQuQcUEC8As9C5BtxQLwLSELkUlFAvBPCQuQQiEC8HDtC42qeQLwktULjh2FAvC0uQuJn60C8NahC3pavQLw+IULPk55AvEabQqWfBkC8TxRCQOtaQLxXjUGcKsVAvGAHQLA+jkC8aIA/h5tzQLxw+j4p/gdAvHlzPB2bakC8ge26f4n6",
+        "resolution": 268.4990054945067
+    },
+    "L2": {
+        "center_dac": null,
+        "center_signal": null,
+        "high_dac": null,
+        "high_resolving_power": null,
+        "high_signal": null,
+        "low_dac": null,
+        "low_resolving_power": null,
+        "low_signal": null,
+        "points": "QLuMKr2yhhBAu5SkvSBnR0C7nR29GMUGQLull71piWNAu64Qvcvc/0C7toq8g8qtQLu/A71ulo9Au8d9vMkrLEC7z/a9RjJjQLvYbzvL9b5Au+DpvKG/V0C76WK9M42dQLvx3L0YGW1Au/pVvYd4+kC8As+9pdwLQLwLSLwTMHdAvBPCvKMth0C8HDu9tZBKQLwktTwRQ6JAvC0uvUkSaEC8Nai9huWiQLw+IT03KoBAvEabvJVYm0C8TxS8obAwQLxXjb1aVE9AvGAHvWUYYEC8aIC9uh/TQLxw+r2QqtNAvHlzvR7FtkC8ge29XOpJ",
+        "resolution": null
+    },
+    "fmt": ">ff",
+    "interpolation": "cubic",
+    "reference_detector": "H1",
+    "reference_isotope": "Ar40"
+}
