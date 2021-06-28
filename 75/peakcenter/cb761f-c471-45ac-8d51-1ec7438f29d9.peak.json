@@ -1,0 +1,54 @@
+{
+    "AX": {
+        "center_dac": null,
+        "center_signal": null,
+        "high_dac": null,
+        "high_resolving_power": null,
+        "high_signal": null,
+        "low_dac": null,
+        "low_resolving_power": null,
+        "low_signal": null,
+        "points": "QLuKMz4LetlAu5KsPgHQ20C7myY+PluzQLujnz4+avxAu6wZPgJIHkC7tJI+iAooQLu9DD5IqexAu8WFPpZ0SUC7zf8+/8lmQLvWeD8T73pAu97yPvK2q0C752s+/Ka3QLvv5T8L0VxAu/hePuhMoUC8ANg/HW6rQLwJUT8XJH5AvBHKPwojHkC8GkQ/CvBIQLwivT8ij+xAvCs3Px4pmkC8M7A/BnAIQLw8Kj7XIWdAvESjPsQoD0C8TR0+sfv6QLxVlj2YFVFAvF4QPibZa0C8Zok+sO7JQLxvAz3rn6BAvHd8PlfnMUC8f/Y9kxfN",
+        "resolution": null
+    },
+    "CDD": {
+        "center_dac": null,
+        "center_signal": null,
+        "high_dac": null,
+        "high_resolving_power": null,
+        "high_signal": null,
+        "low_dac": null,
+        "low_resolving_power": null,
+        "low_signal": null,
+        "points": "QLuKMwAAAABAu5KsAAAAAEC7myY6IjP5QLujnzoiM/lAu6wZO31xOUC7tJI7Nnp6QLu9DDv9cT1Au8WFPH/6FUC7zf89DzH2QLvWeD2oijhAu97yPkwGA0C752s+mIsYQLvv5T6slPdAu/hePr57ZkC8ANg+ueNgQLwJUT67jS1AvBHKPrkYnUC8GkQ+uMeCQLwivT67jS1AvCs3PrwvY0C8M7A+s95hQLw8Kj6tNyxAvESjPqZ7skC8TR0+l/0pQLxVlj5DT6tAvF4QPbYpn0C8Zok8z9KsQLxvAzusVzxAvHd8Oo3tekC8f/Y58032",
+        "resolution": null
+    },
+    "H1": {
+        "center_dac": 5.8755598797595185,
+        "center_signal": 114.72894447143649,
+        "high_dac": 5.883285330661322,
+        "high_resolving_power": 1304.9886133334203,
+        "high_signal": 84.86835391144223,
+        "low_dac": 5.867834428857715,
+        "low_resolving_power": 1267.3525454545652,
+        "low_signal": 85.0641121044654,
+        "points": "QLuKMz2ylVFAu5KsPmXar0C7myY/EvsEQLujnz/xGCJAu6wZQN6jZkC7tJJBtrnqQLu9DEJVWgNAu8WFQquP2kC7zf9C0r92QLvWeELhf7RAu97yQuUcMUC752tC5XOBQLvv5ULlYk1Au/heQuUy4UC8ANhC5V4nQLwJUULlGbxAvBHKQuU3lEC8GkRC5SIHQLwivULlEg1AvCs3QuOo0EC8M7BC4ASSQLw8KkLRKmZAvESjQqRE9EC8TR1CPJsEQLxVlkGbEqNAvF4QQKspxkC8Zok/hW9ZQLxvAz3JfylAvHd8O+A5PUC8f/Y9MJiP",
+        "resolution": 268.48803846153965
+    },
+    "L2": {
+        "center_dac": null,
+        "center_signal": null,
+        "high_dac": null,
+        "high_resolving_power": null,
+        "high_signal": null,
+        "low_dac": null,
+        "low_resolving_power": null,
+        "low_signal": null,
+        "points": "QLuKM7yUjANAu5KsvGrnF0C7mya7Hg8LQLujn72BW2NAu6wZvVG1bkC7tJK9RgjMQLu9DL2SGNZAu8WFvRDZN0C7zf+8almXQLvWeL2e51RAu97yvbM3bUC752u9D3aYQLvv5bxYPylAu/hevWIcakC8ANi84s+8QLwJUT0WrYpAvBHKvXNGUkC8GkS87mIUQLwivT0ZmyRAvCs3vOUjREC8M7C8r6LhQLw8Kj0JuK1AvESjvJyZA0C8TR29lqV7QLxVlr1i2EJAvF4QvVhnRUC8Zom9WcDHQLxvA7uARSJAvHd8ve7Wu0C8f/a9HTmT",
+        "resolution": null
+    },
+    "fmt": ">ff",
+    "interpolation": "cubic",
+    "reference_detector": "H1",
+    "reference_isotope": "Ar40"
+}
