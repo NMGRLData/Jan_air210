@@ -1,6 +1,6 @@
 {
     "Ar36": {
-        "error": 0.0016559608666714143,
+        "error": 0.0009726427585371682,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
@@ -9,17 +9,17 @@
             "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
-        "fit": "parabolic",
+        "fit": "linear",
         "fn": 280,
         "include_baseline_error": true,
         "n": 280,
         "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": 0.45445544858454734
+        "value": 0.45239261748218934
     },
     "Ar37": {
-        "error": 0.0036294985030402615,
+        "error": 0.003629498503040263,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
@@ -37,7 +37,7 @@
         ],
         "reviewed": true,
         "user_excluded": [],
-        "value": -0.022158680340837837
+        "value": -0.022158680340837844
     },
     "Ar38": {
         "error": 0.003531300285720174,
@@ -56,10 +56,10 @@
         "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": 0.1188573695706682
+        "value": 0.11885736957066814
     },
     "Ar39": {
-        "error": 0.012531201255717772,
+        "error": 0.007360029623635172,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
@@ -68,7 +68,7 @@
             "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
-        "fit": "parabolic",
+        "fit": "linear",
         "fn": 279,
         "include_baseline_error": true,
         "n": 280,
@@ -77,10 +77,10 @@
         ],
         "reviewed": true,
         "user_excluded": [],
-        "value": 0.043572380230693944
+        "value": 0.05408071796352819
     },
     "Ar40": {
-        "error": 0.02442503366379669,
+        "error": 0.024425033663796985,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
