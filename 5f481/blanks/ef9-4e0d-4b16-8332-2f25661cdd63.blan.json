@@ -1,8 +1,8 @@
 {
     "Ar36": {
-        "error": 4.8989377350976544e-05,
+        "error": 5.4961573634114084e-05,
         "error_type": "",
-        "fit": "Weighted Mean_SEM",
+        "fit": "Weighted Mean_SE but if MSWD>1 use SE * sqrt(MSWD)",
         "references": [
             {
                 "exclude": "ok",
@@ -26,12 +26,12 @@
             }
         ],
         "reviewed": true,
-        "value": 0.0014266793978133668
+        "value": 0.001426679397813367
     },
     "Ar37": {
-        "error": 0.0028187304988752104,
+        "error": 0.0033934614968749765,
         "error_type": "",
-        "fit": "Weighted Mean_SEM",
+        "fit": "Weighted Mean_SE but if MSWD>1 use SE * sqrt(MSWD)",
         "references": [
             {
                 "exclude": "ok",
@@ -55,12 +55,12 @@
             }
         ],
         "reviewed": true,
-        "value": 0.023849670344908588
+        "value": 0.023849670344908595
     },
     "Ar38": {
-        "error": 0.0024727533443284757,
+        "error": 0.0029654490429546,
         "error_type": "",
-        "fit": "Weighted Mean_SEM",
+        "fit": "Weighted Mean_SE but if MSWD>1 use SE * sqrt(MSWD)",
         "references": [
             {
                 "exclude": "ok",
@@ -84,12 +84,12 @@
             }
         ],
         "reviewed": true,
-        "value": 0.01580655484819679
+        "value": 0.015806554848196784
     },
     "Ar39": {
-        "error": 0.0043940085563230185,
+        "error": 0.006440691108307829,
         "error_type": "",
-        "fit": "Weighted Mean_SEM",
+        "fit": "Weighted Mean_SE but if MSWD>1 use SE * sqrt(MSWD)",
         "references": [
             {
                 "exclude": "ok",
@@ -113,12 +113,12 @@
             }
         ],
         "reviewed": true,
-        "value": 0.04798125652753294
+        "value": 0.04798125652753301
     },
     "Ar40": {
-        "error": 0.005462797690331098,
+        "error": 0.008151452566136827,
         "error_type": "",
-        "fit": "Weighted Mean_SEM",
+        "fit": "Weighted Mean_SE but if MSWD>1 use SE * sqrt(MSWD)",
         "references": [
             {
                 "exclude": "ok",
@@ -142,7 +142,7 @@
             }
         ],
         "reviewed": true,
-        "value": 0.22199762722616248
+        "value": 0.11148645482175326
     },
     "Ar41": {
         "error": 0.040560420746463655,
